@@ -195,7 +195,7 @@
     "mocha-junit-reporter": "^1.18.0",
     "mocha-multi-reporters": "^1.1.7",
     "node-libs-browser": "^2.1.0",
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.12.1",
     "parcel-plugin-asset-copier": "^1.0.0",
     "postcss-modules": "^1.4.1",
     "pre-commit": "^1.2.2",
